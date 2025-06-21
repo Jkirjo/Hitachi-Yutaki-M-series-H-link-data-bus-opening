@@ -29,7 +29,7 @@ sensor:
     unit_of_measurement: "°C"
     accuracy_decimals: 0
   - platform: template
-    name: "Kiertovesi ulos"Water outlet
+    name: "Kiertovesi ulos"#Water outlet
     id: water_out
     unit_of_measurement: "°C"
     accuracy_decimals: 0
