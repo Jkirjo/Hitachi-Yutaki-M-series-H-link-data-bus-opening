@@ -77,6 +77,8 @@ Tämä projekti on koottu tekoälyn avulla kenttähavaintojen pohjalta **Jussin*
 Julkaistu yhteisön hyväksi ilman takuuta, käytä omalla vastuulla. Parannusehdotuksia, havainnointeja ja täydennyksiä otetaan vastaan.
 
 Esp yaml Home assistantille heti siitä perustietojen jälkeen alkaen "uart" kohdasta:
+Tämä ei näköjään rivity oikein, enkä nyt taida ettiä syytä...
+
 uart:
   id: uart_bus
   rx_pin:
