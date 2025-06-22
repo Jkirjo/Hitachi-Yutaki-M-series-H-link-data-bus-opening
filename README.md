@@ -36,9 +36,12 @@ Käytettynä oli **ESP8266** -sarjan mikrokontrolleri, joka liitettiin vain vast
 
 Raakapaketti standby, mutta ei käynnissä:
 3F:01:09:03:1F:E0:C0:00:03:1C:FC:F3:06:F3:01:30:01:00:00:FF:19:1E:00:00:0F:00:06:68:00:00:40:01:00:00:00:00:00:03:03:02:80:80:00:00:00:00:00:00:00:80:00:2D:16:04:10:03:00:00:03:00:45
+
 Raakapaketti käynnissä:
 3F:01:09:03:1F:E0:C0:00:00:03:FF:F3:06:F3:01:30:01:00:00:FF:19:1E:00:00:0F:00:06:68:00:00:40:01:00:80:26:01:00:15:1A:08:80:80:00:00:00:90:00:00:4F:80:00:27:78:05:41:05:01:AD:27:00:82
+
 Tuossa on vielä selvittämättömiä tavuja.
+
  **61 tavua pitkä paketti, joka alkaa tavuilla 3F:01:09** on olennainen.
 
 Tärkeimmät tavut tässä paketissa:
