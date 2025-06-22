@@ -1,5 +1,5 @@
 # Hitachi-Yutaki-M-series-H-link-data-bus-opening
-Digging out Yutaki M-series (RHUE-XX) H-link bus for reading info to Home assistant. English vesion later. This is AI-aided test project. Surprisingly very little part needs corrections.
+Digging out Yutaki M-series (RHUE-XX) H-link bus for reading info to Home assistant. English vesion available. This is AI-aided test project. Surprisingly very little part needs corrections.
 
 # Yutaki M -sarjan H-Link-väylän purku ESP8266:lla ja integraatio Home Assistantiin
 
