@@ -30,6 +30,13 @@ An **ESP8266** was used in this setup, configured as a read-only listener. The s
 - GND shared with the system controller
 
 ## 📦 Packet Format
+Raw packet standby, but not running:
+3F:01:09:03:1F:E0:C0:00:03:1C:FC:F3:06:F3:01:30:01:00:00:FF:19:1E:00:00:0F:00:06:68:00:00:40:01:00:00:00:00:00:03:03:02:80:80:00:00:00:00:00:00:00:80:00:2D:16:04:10:03:00:00:03:00:45
+
+Raw packet when running:
+3F:01:09:03:1F:E0:C0:00:00:03:FF:F3:06:F3:01:30:01:00:00:FF:19:1E:00:00:0F:00:06:68:00:00:40:01:00:80:26:01:00:15:1A:08:80:80:00:00:00:90:00:00:4F:80:00:27:78:05:41:05:01:AD:27:00:82
+
+There is still unsolved bytes in packet.
 
 Two types of packets circulate, but only the **61-byte packet beginning with 3F:01:09** is required.
 
