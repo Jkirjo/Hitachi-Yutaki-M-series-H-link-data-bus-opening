@@ -1,7 +1,7 @@
-# Hitachi-Yutaki-M-series-H-link-data-bus-opening
+# Hitachi Yutaki M-series heatpump H-link data bus opening with esp8266
 Digging out Yutaki M-series (RHUE-XX) H-link bus for reading info to Home assistant. English vesion available. This is AI-aided test project. Surprisingly very little part needs corrections.
 
-# Yutaki M -sarjan H-Link-väylän purku ESP8266:lla ja integraatio Home Assistantiin
+# Yutaki M-sarjan H-Link väylän purku ESP8266:lla ja integraatio Home Assistantiin
 
 **Tekijä: Jussi**  
 **GitHub-tunnus: [jkirjo](https://github.com/jkirjo)**  
