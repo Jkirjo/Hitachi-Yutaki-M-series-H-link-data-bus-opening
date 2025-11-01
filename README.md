@@ -8,6 +8,9 @@ Digging out Yutaki M-series (RHUE-XX) H-link bus for reading info to Home assist
 **Lämpöpumppumalli: Hitachi Yutaki M RHUE5AVN**  
 
 Tämä projekti kuvaa, kuinka Hitachin Yutaki M -sarjan lämpöpumpun H-Link -väylästä saadaan purettua reaaliaikaisia tietoja ESP8266:n avulla ja siirrettyä ne Home Assistantiin. Ratkaisu on testattu käytännössä, ja se tarjoaa valvontakäyttöön näkymän mm. lämpötiloihin, paineisiin ja kompressorin tilaan — ilman virallista dokumentaatiota.
+!! Oleellinen lisäys käytössä havaitusta !!
+Jos laite jostain syystä joutuu vikatilaan, niin tuon väylän datan rakenne muuttuu oleellisesti ja saadut arvot ovat ihan jotain muuta kuin tarkoitetut. Vikatila ei aina poistu edes sammuttamalla ja virtabootilla siitä väylän datasta heti ensimmäisellä kerralla.
+Siihen on mulla paikkaus jo olemassa esp-palikan softaan, mutta siitäkin huolimatta ainakin tilatavu tulee väärin vikatilan jälkeen hetken. Kun tilatavun paikka oikeassa viestissä pysyy, mutta sisältö vaihtuu. Se muuttuu havaitusti ainakin niin, että matalapainesuojauksen vikatila näkyykin sulatuksena. Mitä se ei ole.
 
 ## 🧠 Tausta ja tarkoitus
 
