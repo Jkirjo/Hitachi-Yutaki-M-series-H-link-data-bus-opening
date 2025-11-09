@@ -13,6 +13,8 @@ Tämä projekti kuvaa, kuinka Hitachin Yutaki M -sarjan lämpöpumpun H-Link -v�
 Jos laite jostain syystä joutuu vikatilaan, niin tuon väylän datan rakenne muuttuu oleellisesti ja saadut arvot ovat ihan jotain muuta kuin tarkoitetut. Vikatila ei aina poistu edes sammuttamalla ja virtabootilla siitä väylän datasta heti ensimmäisellä kerralla.
 Siihen on mulla paikkaus jo olemassa esp-palikan softaan, mutta siitäkin huolimatta ainakin tilatavu tulee väärin vikatilan jälkeen hetken. Kun tilatavun paikka oikeassa viestissä pysyy, mutta sisältö vaihtuu. Se muuttuu havaitusti ainakin niin, että matalapainesuojauksen vikatila näkyykin sulatuksena. Mitä se ei ole.
 Tämä kun ei näytä kiinnostavan ketään, niin en viitsi päivittää englanninkielistä osaa tällä.
+Ja onneksi ei olekaan laajaa kiinnostusta, koska näköjään tämä on ihan raakile. Tuo Yutaki vaihtaa tuota datasettiään ilman loogista liipaisinta myös tositoimissa ihan käydessäänkin ja näyttää siltä, että se laajempi lähetys on vallitseva sitten kuitenkin. Mitä ei koskaan kevytkäytössä tullut edes esiin.
+No, siihenkin on jo nyt "ei niin tyylikäs" paikkaus olemassa esp-softaan. Kaikki tulee näkyviin oikein, mutta vähän rumasti. Saa senkin koodin, jos haluaa.
 
 ## 🧠 Tausta ja tarkoitus
 
